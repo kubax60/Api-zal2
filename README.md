@@ -1,5 +1,5 @@
 # Zaliczenie api
-Simple web app created with Node.js and mongoDB. This is the back-end of our application
+Aplikacja Webowa napisana w Node.js oraz mongodb.
 
 ## Funkcje
 * Dodawanie, usuwanie i edycja przepisow
