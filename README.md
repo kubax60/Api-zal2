@@ -1,5 +1,5 @@
 # Zaliczenie api
-Aplikacja Webowa napisana w Node.js oraz mongodb.
+ Backendowa Aplikacja Webowa napisana w Node.js oraz mongodb.
 
 ## Funkcje
 * Dodawanie, usuwanie i edycja przepisow
