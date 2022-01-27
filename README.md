@@ -1,19 +1,19 @@
 # Zaliczenie api
 Simple web app created with Node.js and mongoDB. This is the back-end of our application
 
-## Funckje
+## Funkcje
 * Dodawanie, usuwanie i edycja przepisow
 * wyszukiwanie przepisow
 
 ## REST API endpoints
-* POST /api/przepis - creates a new przepis
-* PUT /api/przepis - updates przepis
-* GET /api/przepis/:id - gets a specific przepis
-* GET /api/przepisy - gets a list of all przepisy
-* DELETE /api/przepis/:id - deletes a specific przepis
-* GET /api/przepisy/:products - gets a list of przepisy with given products
+* POST /api/przepis - dodaje nowy przepis
+* PUT /api/przepis - aktualizuje przepis
+* GET /api/przepis/:id - wybiera przepis
+* GET /api/przepisy - pobiera liste przepisow
+* DELETE /api/przepis/:id - usuwa wybrany przepis
+* GET /api/przepisy/:products - wybiera przepisy z wybranych produktow
 
-## Credits
+## Twórcy
 * Jakub Dudek
 * Piotr Rusin
 
